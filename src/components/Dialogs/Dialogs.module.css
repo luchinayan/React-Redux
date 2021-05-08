@@ -1,0 +1,30 @@
+.dialogs{
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialog{
+    display: flex;
+    padding: 5px;
+}
+.link{
+    text-decoration: none;
+    color: #000;
+    display: flex;
+
+}
+.link:hover{
+    color: #d2ab00;
+    cursor: pointer;
+}
+.dialog img {
+    height: 30px;
+    width: 30px;
+    border-radius: 40px;
+    margin-left: -10px;
+    display: flex;
+    margin-right: 9px;
+
+}
+
+

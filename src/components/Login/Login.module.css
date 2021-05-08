@@ -1,0 +1,16 @@
+.login{
+    display: block;
+    justify-content: center;
+}
+.formControl{
+    margin: 10px;
+}
+
+
+.error{
+    color: #ff0000;
+    margin-top: 5px;
+    background-color: #ffffff;
+    width:fit-content;
+    border-color: red;
+}

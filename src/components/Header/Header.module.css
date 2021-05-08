@@ -1,0 +1,24 @@
+.header {
+    grid-area: h;
+    background-color: #014a7b;
+    margin-bottom: 5px;
+}
+.header img {
+    width: 100px;
+    margin: 5px 0 0 5px;
+}
+.login{
+    float:right;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.login a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+a img {
+    max-width: 40px;
+    max-height: 40px;
+}
